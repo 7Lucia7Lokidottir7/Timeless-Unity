@@ -341,8 +341,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec296c3861144f44088fcec2e9fd3069, type: 3}
   m_Name: 
   m_EditorClassIdentifier: PG.LocalizationSystem::PG.LocalizationSystem.LocalizeText
-  _textObject: {fileID: 0}
-  _key: 
+  _textObject: {fileID: 9100897818188589126}
+  _key: back
 --- !u!1 &5829297411145711670 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 6308148834469994038, guid: 150de9fc7735f89449db19aa9e4db53c, type: 3}
@@ -564,6 +564,17 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 535603918887001600}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 3657272074282862386}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &9100897818188589126 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 8728603581085857350, guid: 150de9fc7735f89449db19aa9e4db53c, type: 3}
+  m_PrefabInstance: {fileID: 535603918887001600}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5546738626659062537}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
