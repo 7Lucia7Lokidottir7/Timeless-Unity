@@ -1,5 +1,13 @@
 {
   "dependencies": {
+    "com.pg.dialogue-graph": "https://github.com/7Lucia7Lokidottir7/Dialogue-Graph.git?path=/Dialogue%20Graph/Assets/Dialogue%20Graph",
+    "com.pg.hierarchy-folder-creator": "https://github.com/7Lucia7Lokidottir7/PG-Hierarchy-Folder-Creator.git?path=/Hierarchy%20Folder%20Creator/Assets/PG%20Hierarchy%20Folder%20Creator",
+    "com.pg.localization-system": "https://github.com/7Lucia7Lokidottir7/unity-templates.git?path=/Templates/Assets/LocalizationSystem",
+    "com.pg.menu": "https://github.com/7Lucia7Lokidottir7/unity-templates.git?path=/Templates/Assets/Menu",
+    "com.pg.pgtween": "https://github.com/7Lucia7Lokidottir7/unity-templates.git?path=/Templates/Assets/PGTween",
+    "com.pg.template-package-manager": "https://github.com/7Lucia7Lokidottir7/unity-templates.git?path=/Templates/Assets/TemplatesPackageManager",
+    "com.pg.vfx-control": "https://github.com/7Lucia7Lokidottir7/unity-templates.git?path=/Templates/Assets/VFXControl",
+    "com.unity.2d.sprite": "1.0.0",
     "com.unity.ai.navigation": "2.0.8",
     "com.unity.collab-proxy": "2.10.2",
     "com.unity.ide.rider": "3.0.36",

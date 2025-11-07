@@ -1,5 +1,65 @@
 {
   "dependencies": {
+    "com.pg.dialogue-graph": {
+      "version": "https://github.com/7Lucia7Lokidottir7/Dialogue-Graph.git?path=/Dialogue%20Graph/Assets/Dialogue%20Graph",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {
+        "com.unity.inputsystem": "1.14.2",
+        "com.unity.graphtoolkit": "0.4.0-exp.2"
+      },
+      "hash": "b4154c0b59e2d5514f1f93a3cd1dc52b5cee899d"
+    },
+    "com.pg.hierarchy-folder-creator": {
+      "version": "https://github.com/7Lucia7Lokidottir7/PG-Hierarchy-Folder-Creator.git?path=/Hierarchy%20Folder%20Creator/Assets/PG%20Hierarchy%20Folder%20Creator",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "e9f5f05ec9efdccbe9d6e719324ff3b2ee75209f"
+    },
+    "com.pg.localization-system": {
+      "version": "https://github.com/7Lucia7Lokidottir7/unity-templates.git?path=/Templates/Assets/LocalizationSystem",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "c048d44f3dc14d11a950bbcf56556eb2b3c5b452"
+    },
+    "com.pg.menu": {
+      "version": "https://github.com/7Lucia7Lokidottir7/unity-templates.git?path=/Templates/Assets/Menu",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {
+        "com.unity.inputsystem": "1.14.2"
+      },
+      "hash": "c048d44f3dc14d11a950bbcf56556eb2b3c5b452"
+    },
+    "com.pg.pgtween": {
+      "version": "https://github.com/7Lucia7Lokidottir7/unity-templates.git?path=/Templates/Assets/PGTween",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "c048d44f3dc14d11a950bbcf56556eb2b3c5b452"
+    },
+    "com.pg.template-package-manager": {
+      "version": "https://github.com/7Lucia7Lokidottir7/unity-templates.git?path=/Templates/Assets/TemplatesPackageManager",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "c048d44f3dc14d11a950bbcf56556eb2b3c5b452"
+    },
+    "com.pg.vfx-control": {
+      "version": "https://github.com/7Lucia7Lokidottir7/unity-templates.git?path=/Templates/Assets/VFXControl",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "c048d44f3dc14d11a950bbcf56556eb2b3c5b452"
+    },
+    "com.unity.2d.sprite": {
+      "version": "1.0.0",
+      "depth": 0,
+      "source": "builtin",
+      "dependencies": {}
+    },
     "com.unity.ai.navigation": {
       "version": "2.0.8",
       "depth": 0,
@@ -45,6 +105,15 @@
       "source": "builtin",
       "dependencies": {}
     },
+    "com.unity.graphtoolkit": {
+      "version": "0.4.0-exp.2",
+      "depth": 1,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.modules.uielements": "1.0.0"
+      },
+      "url": "https://packages.unity.com"
+    },
     "com.unity.ide.rider": {
       "version": "3.0.36",
       "depth": 0,
@@ -64,8 +133,8 @@
       "url": "https://packages.unity.com"
     },
     "com.unity.inputsystem": {
-      "version": "1.14.1",
-      "depth": 0,
+      "version": "1.14.2",
+      "depth": 1,
       "source": "registry",
       "dependencies": {
         "com.unity.modules.uielements": "1.0.0"
