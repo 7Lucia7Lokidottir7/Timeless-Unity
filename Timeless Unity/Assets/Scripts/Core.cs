@@ -17,9 +17,10 @@ public class Core : MonoBehaviour
             }
         }
     }
-    private float _stability;
+    [SerializeField, Range(0,1)] private float _stability = 1;
 
     public event System.Action<float> stabilityChanged;
+    public event System.Action<float> expChanged;
     public event System.Action dead;
 
     public float exp
@@ -28,6 +29,7 @@ public class Core : MonoBehaviour
         set
         {
             _exp = value;
+            expChanged?.Invoke(_exp);
             if (_exp == maxExp)
             {
                 _levelUpEvent?.Invoke();
@@ -41,4 +43,8 @@ public class Core : MonoBehaviour
     [SerializeField] private UnityEvent _levelUpEvent;
 
     public List<Atom> atoms = new List<Atom>();
+    public void Death()
+    {
+        dead?.Invoke();
+    }
 }

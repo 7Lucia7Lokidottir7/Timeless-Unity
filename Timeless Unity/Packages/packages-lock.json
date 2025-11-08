@@ -24,6 +24,15 @@
       "dependencies": {},
       "hash": "c048d44f3dc14d11a950bbcf56556eb2b3c5b452"
     },
+    "com.pg.locomotion-system": {
+      "version": "https://github.com/7Lucia7Lokidottir7/unity-templates.git?path=/Templates/Assets/LocomotionSystem",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {
+        "com.unity.inputsystem": "1.14.2"
+      },
+      "hash": "c048d44f3dc14d11a950bbcf56556eb2b3c5b452"
+    },
     "com.pg.menu": {
       "version": "https://github.com/7Lucia7Lokidottir7/unity-templates.git?path=/Templates/Assets/Menu",
       "depth": 0,

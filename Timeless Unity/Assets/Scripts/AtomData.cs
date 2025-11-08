@@ -4,6 +4,6 @@ using UnityEngine;
 public class AtomData : ScriptableObject
 {
     public string atomName;
-    public float power;
+    [Range(0, 1)] public float power;
     public float[] meanings;
 }

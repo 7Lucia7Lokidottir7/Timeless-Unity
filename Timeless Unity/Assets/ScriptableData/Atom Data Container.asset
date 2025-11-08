@@ -14,3 +14,12 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::AtomDataContainer
   atomDatas:
   - {fileID: 11400000, guid: 1471c0a9d34d5124cab392620b921936, type: 2}
+  - {fileID: 11400000, guid: 0406298f14390d548a1d446115d654d5, type: 2}
+  - {fileID: 11400000, guid: 22662aca9e2778048b85a87004049b50, type: 2}
+  - {fileID: 11400000, guid: afaefee11b91cb94cbbbd28f7c67ba5a, type: 2}
+  - {fileID: 11400000, guid: eded5c324e5b61141901299d667cdb21, type: 2}
+  - {fileID: 11400000, guid: e29d365b30be45b449ea28eacab87c62, type: 2}
+  - {fileID: 11400000, guid: a7bdc5c02f43e0e41874de1d9396ef2d, type: 2}
+  - {fileID: 11400000, guid: 7af9dc242b7babb41a50e95a886a45cd, type: 2}
+  - {fileID: 11400000, guid: b24f240da3056e8458e39096f15460ed, type: 2}
+  - {fileID: 11400000, guid: cf4bf9aaae226b748b838e5016db0225, type: 2}

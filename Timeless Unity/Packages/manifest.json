@@ -3,6 +3,7 @@
     "com.pg.dialogue-graph": "https://github.com/7Lucia7Lokidottir7/Dialogue-Graph.git?path=/Dialogue%20Graph/Assets/Dialogue%20Graph",
     "com.pg.hierarchy-folder-creator": "https://github.com/7Lucia7Lokidottir7/PG-Hierarchy-Folder-Creator.git?path=/Hierarchy%20Folder%20Creator/Assets/PG%20Hierarchy%20Folder%20Creator",
     "com.pg.localization-system": "https://github.com/7Lucia7Lokidottir7/unity-templates.git?path=/Templates/Assets/LocalizationSystem",
+    "com.pg.locomotion-system": "https://github.com/7Lucia7Lokidottir7/unity-templates.git?path=/Templates/Assets/LocomotionSystem",
     "com.pg.menu": "https://github.com/7Lucia7Lokidottir7/unity-templates.git?path=/Templates/Assets/Menu",
     "com.pg.pgtween": "https://github.com/7Lucia7Lokidottir7/unity-templates.git?path=/Templates/Assets/PGTween",
     "com.pg.template-package-manager": "https://github.com/7Lucia7Lokidottir7/unity-templates.git?path=/Templates/Assets/TemplatesPackageManager",
